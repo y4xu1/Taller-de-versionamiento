@@ -1,4 +1,6 @@
 git add -> agregar archivo <- crear
 git adsi -> revisar
 git commit -> Confirmar cambios "index" in "head"
-git commit -> -m <mensaje>
+git commit -m <<Hola mundo (taller de versionamiento)>>
+git log -> Historial de cambios
+status -> Estado del archivo
